@@ -11,3 +11,4 @@ Si los pueden ver
 d-¿De qué forma se comunicaron ustedes?
 Por Discord, mensajes y transmision de pantalla
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+Con Gihub projetcs y mensajes claros en los commits.
